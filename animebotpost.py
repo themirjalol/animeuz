@@ -25,11 +25,11 @@ ADMINS = [5873723609]  # ← O'zingizning Telegram ID
 
 # PostgreSQL ma'lumotlar bazasi - Xavfsiz ulanish
 # Ma'lumotlaringizni bu yerga kiriting:
-DB_USER = "mirjalol"  # Sizning foydalanuvchi nomingiz
-DB_PASSWORD = "Mirjalol2008@#"  # O'z parolingizni kiriting
-DB_HOST = "postgresql-mirjalol.alwaysdata.net"
+DB_USER = "db_user"  # Sizning foydalanuvchi nomingiz
+DB_PASSWORD = "db_password"  # O'z parolingizni kiriting
+DB_HOST = "db_host"
 DB_PORT = 5432
-DB_NAME = "mirjalol_anime"  # Sizning ma'lumotlar bazangiz nomi
+DB_NAME = "db_name"  # Sizning ma'lumotlar bazangiz nomi
 
 # URL obyektini yaratish (maxsus belgilar avtomatik tarzda encode qilinadi)
 database_url = URL.create(
