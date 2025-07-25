@@ -20,7 +20,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.exceptions import TelegramForbiddenError
 
 # 🔐 Sozlamalar
-BOT_TOKEN = "8433594778:AAHCO7jD21aAdiS1PqljS3_NIGQ0ckpQpf8"
+BOT_TOKEN = "BOT_TOKEN"
 ADMINS = [5873723609]  # ← O'zingizning Telegram ID
 
 # PostgreSQL ma'lumotlar bazasi - Xavfsiz ulanish
