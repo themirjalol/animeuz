@@ -13,7 +13,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.client.default import DefaultBotProperties
 
 # 🔐 Sozlamalar
-BOT_TOKEN = "7146716475:AAEXDbhIlWDeGuyukyTT2Sd-ntLOLf3LcZ8"
+BOT_TOKEN = "BOT_TOKEN"
 ADMINS = [5873723609]  # ← O'zingizning Telegram ID
 
 DATA_FILE = Path("data.json")
