@@ -26,7 +26,7 @@ ADMINS = [5873723609]  # ← O'zingizning Telegram ID
 # PostgreSQL ma'lumotlar bazasi - Xavfsiz ulanish
 # Ma'lumotlaringizni bu yerga kiriting:
 DB_USER = "db_user"  # Sizning foydalanuvchi nomingiz
-DB_PASSWORD = "db_passdord"  # O'z parolingizni kiriting
+DB_PASSWORD = "db_password"  # O'z parolingizni kiriting
 DB_HOST = "db_host"
 DB_PORT = 5432
 DB_NAME = "db_name"  # Sizning ma'lumotlar bazangiz nomi
