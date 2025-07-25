@@ -15,7 +15,7 @@ from aiogram.types import FSInputFile
 from aiogram.client.default import DefaultBotProperties
 
 # 🔐 Sozlamalar
-BOT_TOKEN = "7146716475:AAEXDbhIlWDeGuyukyTT2Sd-ntLOLf3LcZ8"
+BOT_TOKEN = "BOT_TOKEN"
 ADMINS = [5873723609]  # O'zingizning Telegram ID'nigiz
 
 DATA_FILE = Path("data.json")
